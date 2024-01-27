@@ -1,6 +1,7 @@
 import timerApp from '../images/timer.png'
 import commerce from '../images/ecomerce.png'
 import crowd from '../images/crowd.png'
+import social from '../images/social.png'
 
 export const Bio = {
   name: "Rithik Pranao",
@@ -282,8 +283,7 @@ export const projects = [
     date: "Sep 2023 - Nov 2023",
     description:
       "Revolutionizing Web3: Our decentralized app, backed by the Lens Protocol, reshapes trust and security with seamless crypto wallet login. We're driving decentralized applications into real-world action.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+    image: social,
     tags: [
       "React Js",
       "Solidity",
