@@ -1,7 +1,7 @@
 {
   "name": "rithik-pranao-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Rithik2211/Rithik_Portfolio",
+  "homepage": "https://Rithik2211.github.io/Rithik_Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
